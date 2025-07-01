@@ -1,0 +1,19 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "comcigan-parser": "^1.0.0",
+    "discord.js": "^13.17.1",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security"
+  }
+}
